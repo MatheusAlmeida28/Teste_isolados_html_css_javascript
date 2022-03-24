@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(13, 173, 236);
+}
+
+h1{
+    color: rgb(4, 39, 114);
+}
+
+h1#principal{
+    color: rgb(13, 6, 48);
+}
+
+.basico{color: aqua;}
+
+.intermediario{color: blueviolet;}
+
+.avancado{color: crimson;}
